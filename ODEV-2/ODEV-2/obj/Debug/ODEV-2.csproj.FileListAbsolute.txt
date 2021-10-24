@@ -1,0 +1,7 @@
+D:\BilgeAdamDersler\ÖDEVLER\ODEV-2\ODEV-2\bin\Debug\ODEV-2.exe.config
+D:\BilgeAdamDersler\ÖDEVLER\ODEV-2\ODEV-2\bin\Debug\ODEV-2.exe
+D:\BilgeAdamDersler\ÖDEVLER\ODEV-2\ODEV-2\bin\Debug\ODEV-2.pdb
+D:\BilgeAdamDersler\ÖDEVLER\ODEV-2\ODEV-2\obj\Debug\ODEV-2.csproj.AssemblyReference.cache
+D:\BilgeAdamDersler\ÖDEVLER\ODEV-2\ODEV-2\obj\Debug\ODEV-2.csproj.CoreCompileInputs.cache
+D:\BilgeAdamDersler\ÖDEVLER\ODEV-2\ODEV-2\obj\Debug\ODEV-2.exe
+D:\BilgeAdamDersler\ÖDEVLER\ODEV-2\ODEV-2\obj\Debug\ODEV-2.pdb
