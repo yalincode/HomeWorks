@@ -1,0 +1,10 @@
+D:\BilgeAdamDersler\ÖDEVLER\ÖDEV-5\SayıTahminEtmeOyunu\SayıTahminEtmeOyunu\bin\Debug\SayıTahminEtmeOyunu.exe.config
+D:\BilgeAdamDersler\ÖDEVLER\ÖDEV-5\SayıTahminEtmeOyunu\SayıTahminEtmeOyunu\bin\Debug\SayıTahminEtmeOyunu.exe
+D:\BilgeAdamDersler\ÖDEVLER\ÖDEV-5\SayıTahminEtmeOyunu\SayıTahminEtmeOyunu\bin\Debug\SayıTahminEtmeOyunu.pdb
+D:\BilgeAdamDersler\ÖDEVLER\ÖDEV-5\SayıTahminEtmeOyunu\SayıTahminEtmeOyunu\obj\Debug\SayıTahminEtmeOyunu.csproj.AssemblyReference.cache
+D:\BilgeAdamDersler\ÖDEVLER\ÖDEV-5\SayıTahminEtmeOyunu\SayıTahminEtmeOyunu\obj\Debug\SayıTahminEtmeOyunu.Form1.resources
+D:\BilgeAdamDersler\ÖDEVLER\ÖDEV-5\SayıTahminEtmeOyunu\SayıTahminEtmeOyunu\obj\Debug\SayıTahminEtmeOyunu.Properties.Resources.resources
+D:\BilgeAdamDersler\ÖDEVLER\ÖDEV-5\SayıTahminEtmeOyunu\SayıTahminEtmeOyunu\obj\Debug\SayıTahminEtmeOyunu.csproj.GenerateResource.cache
+D:\BilgeAdamDersler\ÖDEVLER\ÖDEV-5\SayıTahminEtmeOyunu\SayıTahminEtmeOyunu\obj\Debug\SayıTahminEtmeOyunu.csproj.CoreCompileInputs.cache
+D:\BilgeAdamDersler\ÖDEVLER\ÖDEV-5\SayıTahminEtmeOyunu\SayıTahminEtmeOyunu\obj\Debug\SayıTahminEtmeOyunu.exe
+D:\BilgeAdamDersler\ÖDEVLER\ÖDEV-5\SayıTahminEtmeOyunu\SayıTahminEtmeOyunu\obj\Debug\SayıTahminEtmeOyunu.pdb

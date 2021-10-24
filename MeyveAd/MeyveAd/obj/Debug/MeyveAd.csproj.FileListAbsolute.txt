@@ -1,0 +1,6 @@
+D:\BilgeAdamDersler\ÖDEVLER\ÖDEV-5\MeyveAd\MeyveAd\bin\Debug\MeyveAd.exe.config
+D:\BilgeAdamDersler\ÖDEVLER\ÖDEV-5\MeyveAd\MeyveAd\bin\Debug\MeyveAd.exe
+D:\BilgeAdamDersler\ÖDEVLER\ÖDEV-5\MeyveAd\MeyveAd\bin\Debug\MeyveAd.pdb
+D:\BilgeAdamDersler\ÖDEVLER\ÖDEV-5\MeyveAd\MeyveAd\obj\Debug\MeyveAd.csproj.CoreCompileInputs.cache
+D:\BilgeAdamDersler\ÖDEVLER\ÖDEV-5\MeyveAd\MeyveAd\obj\Debug\MeyveAd.exe
+D:\BilgeAdamDersler\ÖDEVLER\ÖDEV-5\MeyveAd\MeyveAd\obj\Debug\MeyveAd.pdb

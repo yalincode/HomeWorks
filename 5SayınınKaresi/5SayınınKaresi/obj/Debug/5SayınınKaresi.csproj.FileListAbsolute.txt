@@ -1,0 +1,10 @@
+D:\BilgeAdamDersler\ÖDEVLER\ÖDEV-5\5SayınınKaresi\5SayınınKaresi\bin\Debug\5SayınınKaresi.exe.config
+D:\BilgeAdamDersler\ÖDEVLER\ÖDEV-5\5SayınınKaresi\5SayınınKaresi\bin\Debug\5SayınınKaresi.exe
+D:\BilgeAdamDersler\ÖDEVLER\ÖDEV-5\5SayınınKaresi\5SayınınKaresi\bin\Debug\5SayınınKaresi.pdb
+D:\BilgeAdamDersler\ÖDEVLER\ÖDEV-5\5SayınınKaresi\5SayınınKaresi\obj\Debug\5SayınınKaresi.csproj.AssemblyReference.cache
+D:\BilgeAdamDersler\ÖDEVLER\ÖDEV-5\5SayınınKaresi\5SayınınKaresi\obj\Debug\_5SayınınKaresi.Form1.resources
+D:\BilgeAdamDersler\ÖDEVLER\ÖDEV-5\5SayınınKaresi\5SayınınKaresi\obj\Debug\_5SayınınKaresi.Properties.Resources.resources
+D:\BilgeAdamDersler\ÖDEVLER\ÖDEV-5\5SayınınKaresi\5SayınınKaresi\obj\Debug\5SayınınKaresi.csproj.GenerateResource.cache
+D:\BilgeAdamDersler\ÖDEVLER\ÖDEV-5\5SayınınKaresi\5SayınınKaresi\obj\Debug\5SayınınKaresi.csproj.CoreCompileInputs.cache
+D:\BilgeAdamDersler\ÖDEVLER\ÖDEV-5\5SayınınKaresi\5SayınınKaresi\obj\Debug\5SayınınKaresi.exe
+D:\BilgeAdamDersler\ÖDEVLER\ÖDEV-5\5SayınınKaresi\5SayınınKaresi\obj\Debug\5SayınınKaresi.pdb

@@ -1,0 +1,6 @@
+D:\BilgeAdamDersler\ÖDEVLER\ÖDEV-5\KullanıcıGirişEkranı\KullanıcıGirişEkranı\bin\Debug\KullanıcıGirişEkranı.exe.config
+D:\BilgeAdamDersler\ÖDEVLER\ÖDEV-5\KullanıcıGirişEkranı\KullanıcıGirişEkranı\bin\Debug\KullanıcıGirişEkranı.exe
+D:\BilgeAdamDersler\ÖDEVLER\ÖDEV-5\KullanıcıGirişEkranı\KullanıcıGirişEkranı\bin\Debug\KullanıcıGirişEkranı.pdb
+D:\BilgeAdamDersler\ÖDEVLER\ÖDEV-5\KullanıcıGirişEkranı\KullanıcıGirişEkranı\obj\Debug\KullanıcıGirişEkranı.csproj.CoreCompileInputs.cache
+D:\BilgeAdamDersler\ÖDEVLER\ÖDEV-5\KullanıcıGirişEkranı\KullanıcıGirişEkranı\obj\Debug\KullanıcıGirişEkranı.exe
+D:\BilgeAdamDersler\ÖDEVLER\ÖDEV-5\KullanıcıGirişEkranı\KullanıcıGirişEkranı\obj\Debug\KullanıcıGirişEkranı.pdb
