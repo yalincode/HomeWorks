@@ -1,0 +1,10 @@
+D:\BilgeAdamDersler\ÖDEVLER\GitHub\HomeWorks\SuFaturasiHesabi(HW-6)\SuFaturasiHesabi(HW-6)\bin\Debug\SuFaturasiHesabi(HW-6).exe.config
+D:\BilgeAdamDersler\ÖDEVLER\GitHub\HomeWorks\SuFaturasiHesabi(HW-6)\SuFaturasiHesabi(HW-6)\bin\Debug\SuFaturasiHesabi(HW-6).exe
+D:\BilgeAdamDersler\ÖDEVLER\GitHub\HomeWorks\SuFaturasiHesabi(HW-6)\SuFaturasiHesabi(HW-6)\bin\Debug\SuFaturasiHesabi(HW-6).pdb
+D:\BilgeAdamDersler\ÖDEVLER\GitHub\HomeWorks\SuFaturasiHesabi(HW-6)\SuFaturasiHesabi(HW-6)\obj\Debug\SuFaturasiHesabi(HW-6).csproj.AssemblyReference.cache
+D:\BilgeAdamDersler\ÖDEVLER\GitHub\HomeWorks\SuFaturasiHesabi(HW-6)\SuFaturasiHesabi(HW-6)\obj\Debug\SuFaturasiHesabi_HW_6_.Form1.resources
+D:\BilgeAdamDersler\ÖDEVLER\GitHub\HomeWorks\SuFaturasiHesabi(HW-6)\SuFaturasiHesabi(HW-6)\obj\Debug\SuFaturasiHesabi_HW_6_.Properties.Resources.resources
+D:\BilgeAdamDersler\ÖDEVLER\GitHub\HomeWorks\SuFaturasiHesabi(HW-6)\SuFaturasiHesabi(HW-6)\obj\Debug\SuFaturasiHesabi(HW-6).csproj.GenerateResource.cache
+D:\BilgeAdamDersler\ÖDEVLER\GitHub\HomeWorks\SuFaturasiHesabi(HW-6)\SuFaturasiHesabi(HW-6)\obj\Debug\SuFaturasiHesabi(HW-6).csproj.CoreCompileInputs.cache
+D:\BilgeAdamDersler\ÖDEVLER\GitHub\HomeWorks\SuFaturasiHesabi(HW-6)\SuFaturasiHesabi(HW-6)\obj\Debug\SuFaturasiHesabi(HW-6).exe
+D:\BilgeAdamDersler\ÖDEVLER\GitHub\HomeWorks\SuFaturasiHesabi(HW-6)\SuFaturasiHesabi(HW-6)\obj\Debug\SuFaturasiHesabi(HW-6).pdb
